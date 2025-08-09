@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [gym management system](https://gym-management-system-livid.vercel.app)
 
-- 👨‍💻 All of my projects are available at [https://hilali-mohammed-portfolio.vercel.app/](https://hilali-mohammed-portfolio.vercel.app)
+- 👨‍💻 All of my projects are available at [https://hilali-mohammed-portfolio.vercel.app](https://hilali-mohammed-portfolio.vercel.app)
 
 - 📫 How to reach me **mhilalipro@gmail.com**
 
